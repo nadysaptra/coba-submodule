@@ -1,0 +1,3 @@
+[submodule "subslaravel"]
+	path = subslaravel
+	url = https://github.com/nadysaptra/submodules.git
